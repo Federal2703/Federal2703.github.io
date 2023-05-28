@@ -1,0 +1,18 @@
+h1{
+    font-size: 60px;
+    background-color: rgb(100, 198, 100);
+    margin:30px ;
+    border-style:solid;
+}
+p{
+    font-size: 40px;
+}
+body{
+    background-color: rgb(184, 246, 246);
+}
+.conteiner{
+    display: inline-block;
+    background-color: rgb(171, 137, 255);
+    text-align: left;
+    border-style:solid;
+}
